@@ -51,4 +51,3 @@ namespace MvcSoporte.Models
         public Localizacion? Localizacion { get; set; }
     }
 }
-}
