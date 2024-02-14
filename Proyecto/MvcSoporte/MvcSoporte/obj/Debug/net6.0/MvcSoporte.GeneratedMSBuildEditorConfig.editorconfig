@@ -9,145 +9,145 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MvcSoporte
 build_property.RootNamespace = MvcSoporte
-build_property.ProjectDir = D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\
+build_property.ProjectDir = C:\Users\Diego\Downloads\DWES-Prac7-main\DWES-Prac7-main\Proyecto\MvcSoporte\MvcSoporte\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte
+build_property.MSBuildProjectDirectory = C:\Users\Diego\Downloads\DWES-Prac7-main\DWES-Prac7-main\Proyecto\MvcSoporte\MvcSoporte
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Avisos/Create.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Avisos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZpc29zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Avisos/Delete.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Avisos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZpc29zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Avisos/Details.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Avisos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZpc29zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Avisos/Edit.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Avisos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZpc29zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Avisos/Index.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Avisos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZpc29zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Empleados/Create.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Empleados/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Empleados/Delete.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Empleados/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Empleados/Details.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Empleados/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Empleados/Edit.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Empleados/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Empleados/Index.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Empleados/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Equipos/Create.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Equipos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Equipos/Delete.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Equipos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Equipos/Details.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Equipos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Equipos/Edit.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Equipos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Equipos/Index.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Equipos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Home/Index.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Home/Privacy.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Localizaciones/Create.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Localizaciones/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxpemFjaW9uZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Localizaciones/Delete.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Localizaciones/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxpemFjaW9uZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Localizaciones/Details.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Localizaciones/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxpemFjaW9uZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Localizaciones/Edit.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Localizaciones/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxpemFjaW9uZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Localizaciones/Index.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Localizaciones/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxpemFjaW9uZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Shared/Error.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/TiposAveria/Create.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/TiposAveria/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NBdmVyaWFcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/TiposAveria/Delete.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/TiposAveria/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NBdmVyaWFcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/TiposAveria/Details.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/TiposAveria/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NBdmVyaWFcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/TiposAveria/Edit.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/TiposAveria/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NBdmVyaWFcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/TiposAveria/Index.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/TiposAveria/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NBdmVyaWFcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/_ViewImports.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/_ViewStart.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DAW/2o/SERVIDOR/Práctica 7/Proyecto/MvcSoporte/MvcSoporte/Views/Shared/_Layout.cshtml]
+[C:/Users/Diego/Downloads/DWES-Prac7-main/DWES-Prac7-main/Proyecto/MvcSoporte/MvcSoporte/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-te8yks2w1l

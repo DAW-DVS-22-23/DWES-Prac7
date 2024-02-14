@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FxuWlNaCT6B/r5JuG2VLsj4Riq7kmT6RaIBcWhjPikIr2TKCfobAbvRRQF1fHknw+T4/FdMqqFzr9lNkaG4SLg==",
+  "dgSpecHash": "7lJFRP4J7Zgi0aluoa88f/CUkOGFzy3KrOZRY94le+pH11OHg1plWhHxol2nnh0InwKqU+0hNiqAzJBkxX9Ohw==",
   "success": true,
-  "projectFilePath": "D:\\DAW\\2o\\SERVIDOR\\Práctica 7\\Proyecto\\MvcSoporte\\MvcSoporte\\MvcSoporte.csproj",
+  "projectFilePath": "C:\\Users\\Diego\\Downloads\\DWES-Prac7-main\\DWES-Prac7-main\\Proyecto\\MvcSoporte\\MvcSoporte\\MvcSoporte.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
