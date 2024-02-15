@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Diego\\Downloads\\DWES-Prac7-main\\DWES-Prac7-main\\Proyecto\\MvcSoporte\\MvcSoporte\\MvcSoporte.csproj": {}
+    "D:\\DAW\\2o\\SERVIDOR\\Práctica 7\\Proyecto\\MvcSoporte\\MvcSoporte\\MvcSoporte.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Diego\\Downloads\\DWES-Prac7-main\\DWES-Prac7-main\\Proyecto\\MvcSoporte\\MvcSoporte\\MvcSoporte.csproj": {
+    "D:\\DAW\\2o\\SERVIDOR\\Práctica 7\\Proyecto\\MvcSoporte\\MvcSoporte\\MvcSoporte.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego\\Downloads\\DWES-Prac7-main\\DWES-Prac7-main\\Proyecto\\MvcSoporte\\MvcSoporte\\MvcSoporte.csproj",
+        "projectUniqueName": "D:\\DAW\\2o\\SERVIDOR\\Práctica 7\\Proyecto\\MvcSoporte\\MvcSoporte\\MvcSoporte.csproj",
         "projectName": "MvcSoporte",
-        "projectPath": "C:\\Users\\Diego\\Downloads\\DWES-Prac7-main\\DWES-Prac7-main\\Proyecto\\MvcSoporte\\MvcSoporte\\MvcSoporte.csproj",
+        "projectPath": "D:\\DAW\\2o\\SERVIDOR\\Práctica 7\\Proyecto\\MvcSoporte\\MvcSoporte\\MvcSoporte.csproj",
         "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego\\Downloads\\DWES-Prac7-main\\DWES-Prac7-main\\Proyecto\\MvcSoporte\\MvcSoporte\\obj\\",
+        "outputPath": "D:\\DAW\\2o\\SERVIDOR\\Práctica 7\\Proyecto\\MvcSoporte\\MvcSoporte\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

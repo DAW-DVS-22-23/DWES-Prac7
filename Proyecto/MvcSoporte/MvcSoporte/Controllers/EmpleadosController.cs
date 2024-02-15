@@ -20,11 +20,15 @@ namespace MvcSoporte.Controllers
         }
 
         // GET: Empleados
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(int? pageNumber)
         {
-              return _context.Empleados != null ? 
-                          View(await _context.Empleados.ToListAsync()) :
-                          Problem("Entity set 'MvcSoporteContexto.Empleados'  is null.");
+            // Cargar datos de Empleados
+            var empleados = from s in _context.Empleados
+                            select s;
+            int pageSize = 3;
+            return View(await PaginatedList<Empleado>.CreateAsync(empleados.AsNoTracking(),
+            pageNumber ?? 1, pageSize));
+            // return View(await _context.Empleados.ToListAsync()) :
         }
 
         // GET: Empleados/Details/5
