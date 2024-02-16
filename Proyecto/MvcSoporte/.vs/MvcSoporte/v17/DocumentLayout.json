@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\DAW\\Pr\u00E1ctica 7 Servidor\\DWES-Prac7\\Proyecto\\MvcSoporte\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{38DDF1C8-DCEE-4E8F-B5A8-7B6B7815B9B5}|MvcSoporte\\MvcSoporte.csproj|c:\\users\\user\\documents\\daw\\pr\u00E1ctica 7 servidor\\dwes-prac7\\proyecto\\mvcsoporte\\mvcsoporte\\controllers\\misavisoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DDF1C8-DCEE-4E8F-B5A8-7B6B7815B9B5}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\controllers\\misavisoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{38DDF1C8-DCEE-4E8F-B5A8-7B6B7815B9B5}|MvcSoporte\\MvcSoporte.csproj|c:\\users\\user\\documents\\daw\\pr\u00E1ctica 7 servidor\\dwes-prac7\\proyecto\\mvcsoporte\\mvcsoporte\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{38DDF1C8-DCEE-4E8F-B5A8-7B6B7815B9B5}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{38DDF1C8-DCEE-4E8F-B5A8-7B6B7815B9B5}|MvcSoporte\\MvcSoporte.csproj|c:\\users\\user\\documents\\daw\\pr\u00E1ctica 7 servidor\\dwes-prac7\\proyecto\\mvcsoporte\\mvcsoporte\\views\\misavisos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{38DDF1C8-DCEE-4E8F-B5A8-7B6B7815B9B5}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\views\\misavisos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38DDF1C8-DCEE-4E8F-B5A8-7B6B7815B9B5}|MvcSoporte\\MvcSoporte.csproj|c:\\users\\user\\documents\\daw\\pr\u00E1ctica 7 servidor\\dwes-prac7\\proyecto\\mvcsoporte\\mvcsoporte\\controllers\\misavisoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38DDF1C8-DCEE-4E8F-B5A8-7B6B7815B9B5}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\controllers\\misavisoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\DAW\\Pr\u00E1ctica 7 Servidor\\DWES-Prac7\\Proyecto\\MvcSoporte\\MvcSoporte\\Views\\MisAvisos\\Edit.cshtml",
               "RelativeDocumentMoniker": "MvcSoporte\\Views\\MisAvisos\\Edit.cshtml",
@@ -42,12 +42,11 @@
               "RelativeToolTip": "MvcSoporte\\Views\\MisAvisos\\Edit.cshtml",
               "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-16T13:12:26.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-16T13:12:26.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\DAW\\Pr\u00E1ctica 7 Servidor\\DWES-Prac7\\Proyecto\\MvcSoporte\\MvcSoporte\\Views\\MisAvisos\\Create.cshtml",
               "RelativeDocumentMoniker": "MvcSoporte\\Views\\MisAvisos\\Create.cshtml",
@@ -55,25 +54,24 @@
               "RelativeToolTip": "MvcSoporte\\Views\\MisAvisos\\Create.cshtml",
               "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-16T13:11:32.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-16T13:11:32.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MisAvisosController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\DAW\\Pr\u00E1ctica 7 Servidor\\DWES-Prac7\\Proyecto\\MvcSoporte\\MvcSoporte\\Controllers\\MisAvisosController.cs",
               "RelativeDocumentMoniker": "MvcSoporte\\Controllers\\MisAvisosController.cs",
               "ToolTip": "C:\\Users\\USER\\Documents\\DAW\\Pr\u00E1ctica 7 Servidor\\DWES-Prac7\\Proyecto\\MvcSoporte\\MvcSoporte\\Controllers\\MisAvisosController.cs",
               "RelativeToolTip": "MvcSoporte\\Controllers\\MisAvisosController.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAswGUAAAAMAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAswEwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-16T13:05:11.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\DAW\\Pr\u00E1ctica 7 Servidor\\DWES-Prac7\\Proyecto\\MvcSoporte\\MvcSoporte\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MvcSoporte\\Views\\Shared\\_Layout.cshtml",
