@@ -11495,19 +11495,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {}
+    "C:\\Users\\Diego\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Documents\\DAW\\Práctica 7 Servidor\\DWES-Prac7\\Proyecto\\MvcSoporte\\MvcSoporte\\MvcSoporte.csproj",
+      "projectUniqueName": "D:\\DAW\\2o\\SERVIDOR\\Práctica 7\\Proyecto\\MvcSoporte\\MvcSoporte\\MvcSoporte.csproj",
       "projectName": "MvcSoporte",
-      "projectPath": "C:\\Users\\USER\\Documents\\DAW\\Práctica 7 Servidor\\DWES-Prac7\\Proyecto\\MvcSoporte\\MvcSoporte\\MvcSoporte.csproj",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Documents\\DAW\\Práctica 7 Servidor\\DWES-Prac7\\Proyecto\\MvcSoporte\\MvcSoporte\\obj\\",
+      "projectPath": "D:\\DAW\\2o\\SERVIDOR\\Práctica 7\\Proyecto\\MvcSoporte\\MvcSoporte\\MvcSoporte.csproj",
+      "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
+      "outputPath": "D:\\DAW\\2o\\SERVIDOR\\Práctica 7\\Proyecto\\MvcSoporte\\MvcSoporte\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11515,6 +11520,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11527,11 +11533,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -11588,7 +11589,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

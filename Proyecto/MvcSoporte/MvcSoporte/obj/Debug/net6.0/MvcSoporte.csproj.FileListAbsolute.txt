@@ -801,3 +801,31 @@ C:\Users\USER\Documents\DAW\Práctica 7 Servidor\DWES-Prac7\Proyecto\MvcSoporte\
 C:\Users\USER\Documents\DAW\Práctica 7 Servidor\DWES-Prac7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\USER\Documents\DAW\Práctica 7 Servidor\DWES-Prac7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\USER\Documents\DAW\Práctica 7 Servidor\DWES-Prac7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\DAW\2o\SERVIDOR\Práctica 7\Proyecto\MvcSoporte\MvcSoporte\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
